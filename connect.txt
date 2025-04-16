@@ -1,5 +1,0 @@
-
-
-
-postgresql://neondb_owner:npg_jz8RghuCKL7A@ep-super-hill-a88rdtt0-pooler.eastus2.azure.neon.tech/neondb?sslmode=require
-ltH9YNI1etsomcI2Jpnkb4m6rMekB9Hpj1m2ovs
